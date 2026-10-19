@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/gifsicle package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/gifsicle instead.
+name: gifsicle-ffmpeg
+owner: gifsicle
+with: [ffmpeg]
